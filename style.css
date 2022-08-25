@@ -1,3 +1,8 @@
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
 #top-banner {
   color : rgb(255,255,255);
     font-size: 30px;
@@ -78,4 +83,19 @@
   margin-top: 40px;
 }
 
+img {
+  width: 40%;
+  height: auto;
+}
 
+ h2{
+  text-align: center;
+  outline-style: groove;
+  padding: 20px;
+  width: 200px;
+  height: 50%;
+  color: #007acc;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ 
