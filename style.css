@@ -84,8 +84,11 @@ html,body{
 }
 
 img {
-  width: 40%;
+  width: 20%;
   height: auto;
+  border-radius: 20%;
+  float: left;
+  padding: 5px;
 }
 
  h2{
@@ -98,4 +101,3 @@ img {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
 
- 
