@@ -91,12 +91,15 @@ img {
   padding: 5px;
 }
 
+ /*Premier titre*/
 h1{
   padding: 60px;
   color: white;
   font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
  }
 
+/*autres titres*/
  h2{
   padding: 5px;
   color: white;
