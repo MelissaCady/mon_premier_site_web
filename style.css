@@ -91,13 +91,37 @@ img {
   padding: 5px;
 }
 
- h2{
-  text-align: center;
-  outline-style: groove;
-  padding: 20px;
-  width: 200px;
-  height: 50%;
-  color: #007acc;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+h1{
+  padding: 60px;
+  color: white;
+  font-size: 30px;
  }
+
+ h2{
+  padding: 5px;
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  border-bottom: solid 2px;
+  border-top: solid 2px;
+  display: inline-block;
+  letter-spacing: 0.2em;
+ }
+
+ body {
+  /*background-image: url(images/adrian-infernus-GLf7bAwCdYg-unsplash.jpg);*/
+  background: rgba(52, 27, 43, 0.5);
+  color: white;
+}
+
+* {
+  text-align: center;
+}
+
+#hero{
+  position: relative;
+  color: #fff;
+  text-align: center;
+}
+
+
 
